@@ -1,2 +1,16 @@
 # Counter-App
-A Counter app If add button is clicked value = +1 if minus button is click value = -1
+
+An app that counts. When the add button is pressed, the value is increased by one. If you click the negative button, the value will be -1.
+
+
+## Features
+
+- Counts Clicks
+
+## Acknowledgements
+
+ - [Bad css]()
+## Authors
+
+- [@DRQSuperior](https://www.github.com/drqsuperior)
+
