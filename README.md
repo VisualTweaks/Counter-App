@@ -13,7 +13,7 @@ An app that counts. When the add button is pressed, the value is increased by on
 
 ## Installation
 
-Install my-project with npm
+Install with npm
 
 ```bash
   npm Install
