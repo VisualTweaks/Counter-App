@@ -10,7 +10,16 @@ An app that counts. When the add button is pressed, the value is increased by on
 ## Acknowledgements
 
  - [Bad css]()
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm Install
+  node .
+```
+
 ## Authors
 
 - [@DRQSuperior](https://www.github.com/drqsuperior)
-
